@@ -8,6 +8,6 @@ package cn.test;
  */
 public class testBig {
     public static void main(String[] args){
-
+        System.out.println();
     }
 }
